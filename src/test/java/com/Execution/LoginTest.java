@@ -15,7 +15,7 @@ public class LoginTest extends Login {
 		driver = bro.lunchUrl();
 
 	}
-
+/****************** */
 	@Test
 	public void logging() { 
 		userName("hotel");
